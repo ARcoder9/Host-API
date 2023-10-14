@@ -1,0 +1,46 @@
+[
+    {
+    "name": "iphone",
+    "price": 154 ,
+    "featured": true ,
+    "company": "apple"
+    },
+    {
+    "name": "iphone10",
+    "price": 1154 ,
+    "featured": true ,
+    "company": "apple" 
+    },
+    {
+    "name": "watch",
+    "price": 204 ,
+    "company": "apple"   
+    },
+    {
+    "name": "watch 10",
+    "price": 2004 ,
+    "company": "apple"    
+    },
+    {
+    "name": "dell gaming laptop",
+    "price": 2004 ,
+    "company": "dell"    
+    },
+    {
+    "name": "mi10",
+    "price": 2004 ,
+    "company": "mi"    
+    },
+    {
+    "name": "iphone11",
+    "price": 1554 ,
+    "featured": true ,
+    "company": "apple"
+    },
+    {
+    "name": "mi11",
+    "price": 156 ,
+    "featured": true ,
+    "company": "mi"
+    }
+]
